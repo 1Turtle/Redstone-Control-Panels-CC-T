@@ -12,7 +12,7 @@ Download
 to download this program directly to your ComputerCraft computer, type this in **the interactive Lua prompt**:
 
 ```
-domain = "https://github.com/1Turtle/Redstone-Control-Panels-CC-T/releases/latest/download/control-panels.lua"
+domain = "https://raw.githubusercontent.com/1Turtle/Redstone-Control-Panels-CC-T/master/control-panels.lua"
 content = http.get(domain).readAll()
 f = fs.open("control-panels.lua", "w")
 f.write(content)
