@@ -7,7 +7,7 @@ With this program you can control all 5 sides of the computer from the [CC:T mod
 
 Download
 --------
-> 👉Note: **Redstone-Control-Panel** is only for [CC:T](https://github.com/SquidDev-CC/CC-Tweaked) and is not tested on other versions of ComputerCraft
+> 👉Note: **Redstone-Control-Panel** is only for [CC:T](https://github.com/SquidDev-CC/CC-Tweaked) and CraftOS 1.7! Its **not** tested on other versions of ComputerCraft
 
 to download this program directly to your ComputerCraft computer, type this in **the interactive Lua prompt**:
 
