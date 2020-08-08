@@ -3,7 +3,7 @@
 Features
 --------
 With this program you can control all 5 sides of the computer from the [CC:T mod](https://github.com/SquidDev-CC/CC-Tweaked). You can give the button name, change the view of the buttons (between LIST and BUTTONS) and adjust the signal strength.
-![Alt Text](/screenshot.png "Screenshot of Turtles Explorer")
+![Alt Text](/example.png "Screenshot")
 
 Download
 --------
