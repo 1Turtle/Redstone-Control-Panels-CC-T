@@ -282,7 +282,10 @@ local function getMousePos()
             event = nil side = nil xPos = nil yPos = nil
         end
 
-        if peripheral.getName(screen) == side then
+        local condition = true
+        if os.version() == "CraftOS 1.8" then condition = (peripheral.getName(screen) == side) end
+        
+        if condition then
             --Infobar
             if yPos == 1 then
                 local lengthL = 4+9
